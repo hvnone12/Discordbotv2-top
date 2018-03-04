@@ -20,4 +20,5 @@ websockets==3.4
 youtube-dl==2017.9.24
 woocommerce==1.2.1
 asyncpg==0.14.0
-discord.py==1.0.0a
+discord.py==0.16.12
+discord-rewrite=1.0.0
