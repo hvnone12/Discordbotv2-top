@@ -19,3 +19,4 @@ urllib3==1.22
 webencodings==0.5.1
 websockets==3.4
 youtube-dl==2017.9.24
+woocommerce==1.2.1
