@@ -1,1 +1,1 @@
-# Discordbotv2
+# Amnesio-discordbot
