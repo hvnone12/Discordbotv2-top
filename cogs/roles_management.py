@@ -19,7 +19,7 @@ class Roles:
     async def invitatii(self, ctx):
         """Shows the invites, only in invite-counter"""
         author = ctx.message.author
-        if not ctx.message.channel.id == 401435705668009985:
+        if not ctx.message.channel.id == 419919229492396034:
             await ctx.message.delete()
             return
         has_rank = False
